@@ -156,6 +156,8 @@ Regisztrált és bejelentkezett felhasználó. Hozzáfér a kosár, rendelés, s
 ### Admin
 
 Kizárólag az Avalonia desktop alkalmazáson keresztül tud bejelentkezni. Teljes hozzáféréssel rendelkezik a termék-, kategória-, rendelés- és felhasználókezeléshez, valamint a riportokhoz és az audit log megtekintéséhez. Admin role-t manuálisan vagy seed adattal kap.
+Dashboard felület, ahol statisztikákat és egyéb kimutatásokat láthat. Kiállított számlák visszanézése, kezelése.
+
 
 ## 2.2 Jogosultság mátrix
 
@@ -169,29 +171,40 @@ Kizárólag az Avalonia desktop alkalmazáson keresztül tud bejelentkezni. Telj
 | Saját rendelések megtekintése | **✗**     | **✓**        | **✓**     |
 | Számla letöltése              | **✗**     | **✓**        | **✓**     |
 | Profil kezelése               | **✗**     | **✓**        | **✓**     |
-| Termékek kezelése (admin)     | **✗**     | **✗**        | **✓**     |
-| Kategóriák kezelése (admin)   | **✗**     | **✗**        | **✓**     |
-| Rendelések kezelése (admin)   | **✗**     | **✗**        | **✓**     |
-| Felhasználók kezelése (admin) | **✗**     | **✗**        | **✓**     |
-| Riportok (admin)              | **✗**     | **✗**        | **✓**     |
-| Audit log (admin)             | **✗**     | **✗**        | **✓**     |
+| Termékek kezelése             | **✗**     | **✗**        | **✓**     |
+| Kategóriák kezelése           | **✗**     | **✗**        | **✓**     |
+| Rendelések kezelése           | **✗**     | **✗**        | **✓**     |
+| Felhasználók kezelése         | **✗**     | **✗**        | **✓**     |
+| Riportok                      | **✗**     | **✗**        | **✓**     |
+| Audit log                     | **✗**     | **✗**        | **✓**     |
+
+*Esetleg egy olyan kategóia, aki a termékekeket, kategóriákat tudja csak kezelni.*
 
 # 3\. Adatmodell
 
 Az adatbázis PostgreSQL, Entity Framework Core Code-First megközelítéssel. Az entitások Guid alapú primary key-eket használnak.
+*(ER-diagramban megtervezve)*
+
 
 ## 3.1 User
 
-| **Mező**     | **Típus** | **Leírás**                       |
-| ------------ | --------- | -------------------------------- |
-| Id           | Guid PK   | Egyedi azonosító                 |
-| Email        | string    | Egyedi, bejelentkezési azonosító |
-| PasswordHash | string    | BCrypt hash                      |
-| Role         | enum      | Guest \| Customer \| Admin       |
-| FirstName    | string    | Keresztnév                       |
-| LastName     | string    | Vezetéknév                       |
-| CreatedAt    | DateTime  | Regisztráció időpontja           |
-| IsActive     | bool      | Fiók aktív-e (soft delete)       |
+| **Mező**     | **Típus** | **Leírás**                       | RQD?
+| ------------ | --------- | -------------------------------- | 
+| Id           | Guid PK   | Egyedi azonosító                 | Y 
+| Email        | string    | Egyedi, bejelentkezési azonosító | Y 
+| PasswordHash | string    | BCrypt hash                      | Y
+| Role         | enum      | Guest \| Customer \| Admin       | Y    *Ha Guest, tehát nincs bejelentkezve, akkor hogyan/miért van tárolva?*
+| FirstName    | string    | Keresztnév                       | Y 
+| LastName     | string    | Vezetéknév                       | Y 
+| CreatedAt    | DateTime  | Regisztráció időpontja           | Y 
+| IsActive     | bool      | Fiók aktív-e (soft delete)       | Y 
+| PostalCode   | int       | Irányítószám                     | N  
+| CityName     | string    | Város neve                       | N  
+| StreetName   | string    |                                  | N  
+| StreetType   | string    |                                  | N  
+| HouseNumber  | number    |                                  | N  
+| Floor        | number    |                                  | N 
+| Door         | string    |                                  | N 
 
 ## 3.2 Category
 
@@ -235,7 +248,7 @@ Az adatbázis PostgreSQL, Entity Framework Core Code-First megközelítéssel. A
 | Order.UserId          | Guid FK   | Felhasználó hivatkozás                                     |
 | Order.Status          | enum      | Pending \| Processing \| Shipped \| Completed \| Cancelled |
 | Order.TotalAmount     | decimal   | Végösszeg (HUF)                                            |
-| Order.ShippingAddress | string    | Szállítási cím (JSON)                                      |
+| Order.ShippingAddress | string    | Szállítási cím (JSON)                                      |  *Érdemes részekre szedni, nem egy nagyban tárolni. Illetve én a felhasználóhoz kötném, hogy később ki tudja ugyanazt a címet választani. Ezt nem lehet tárolni beleegyezés nélkül. Most beírtam a felhasználóhoz, de lehet érdemes lenne külön táblában.*
 | Order.CreatedAt       | DateTime  | Rendelés ideje                                             |
 | OrderItem.OrderId     | Guid FK   | Rendelés hivatkozás                                        |
 | OrderItem.ProductId   | Guid FK   | Termék hivatkozás                                          |
@@ -271,6 +284,8 @@ Az adatbázis PostgreSQL, Entity Framework Core Code-First megközelítéssel. A
 Az API ASP.NET Core 8 Web API, JWT Bearer autentikációval. Minden válasz application/json formátumban érkezik. Hibák RFC 7807 (ProblemDetails) formátumban.
 
 _Az admin végpontok kizárólag Admin role-lal rendelkező felhasználók számára elérhetők, és jellemzően az Avalonia desktop alkalmazás hívja őket._
+
+*Ezeket egy külön meeting alatt át kell beszélni.*
 
 ## 4.1 Autentikáció
 
@@ -349,6 +364,8 @@ _Az admin végpontok kizárólag Admin role-lal rendelkező felhasználók szám
 Single Page Application, Vite builddel, TypeScript-tel. Az állapotot Pinia store-ok kezelik, a navigációt Vue Router.
 
 ## 5.1 Oldalak és képernyők
+
+*Elsőre jónak tűnik, de folyamatábrák és use-case-ek után látszik, hogy milyen oldalak fognak kelleni.*
 
 | **Oldal**              | **Útvonal**         | **Leírás**                                  |
 | ---------------------- | ------------------- | ------------------------------------------- |
