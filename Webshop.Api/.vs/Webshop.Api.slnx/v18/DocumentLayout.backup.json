@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\webshop\\Webshop.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|d:\\webshop\\webshop.api\\webshop.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|solutionrelative:webshop.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|d:\\webshop\\webshop.api\\webshop.api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|solutionrelative:webshop.api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|d:\\webshop\\webshop.api\\webshop.api\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|solutionrelative:webshop.api\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|d:\\webshop\\webshop.api\\webshop.api\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|solutionrelative:webshop.api\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|d:\\webshop\\webshop.api\\webshop.api\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|solutionrelative:webshop.api\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|d:\\webshop\\webshop.api\\webshop.api\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|solutionrelative:webshop.api\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|d:\\webshop\\webshop.api\\webshop.api\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|solutionrelative:webshop.api\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|d:\\webshop\\webshop.api\\webshop.api\\dtos\\addtocartdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|solutionrelative:webshop.api\\dtos\\addtocartdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|d:\\webshop\\webshop.api\\webshop.api\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|solutionrelative:webshop.api\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|d:\\webshop\\webshop.api\\webshop.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|solutionrelative:webshop.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|d:\\webshop\\webshop.api\\webshop.api\\webshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97A94D8A-02F4-AC00-A2D8-BE734A92A33E}|Webshop.Api\\Webshop.Api.csproj|solutionrelative:webshop.api\\webshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\webshop\\Webshop.Api\\Webshop.Api\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Webshop.Api\\Services\\OrderService.cs",
+              "ToolTip": "D:\\webshop\\Webshop.Api\\Webshop.Api\\Services\\OrderService.cs",
+              "RelativeToolTip": "Webshop.Api\\Services\\OrderService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T13:06:39.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\webshop\\Webshop.Api\\Webshop.Api\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Webshop.Api\\Models\\Cart.cs",
+              "ToolTip": "D:\\webshop\\Webshop.Api\\Webshop.Api\\Models\\Cart.cs",
+              "RelativeToolTip": "Webshop.Api\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:59:30.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "D:\\webshop\\Webshop.Api\\Webshop.Api\\Services\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "Webshop.Api\\Services\\Interfaces\\ICartService.cs",
+              "ToolTip": "D:\\webshop\\Webshop.Api\\Webshop.Api\\Services\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "Webshop.Api\\Services\\Interfaces\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:42:53.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Webshop.Api\\DTOs\\CreateProductDto.cs",
+              "ToolTip": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "Webshop.Api\\DTOs\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:01:49.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "Webshop.Api\\DTOs\\CartItemDto.cs",
+              "ToolTip": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\CartItemDto.cs",
+              "RelativeToolTip": "Webshop.Api\\DTOs\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:01:47.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\CartDto.cs",
+              "RelativeDocumentMoniker": "Webshop.Api\\DTOs\\CartDto.cs",
+              "ToolTip": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\CartDto.cs",
+              "RelativeToolTip": "Webshop.Api\\DTOs\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:01:43.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "Webshop.Api\\DTOs\\AuthResponseDto.cs",
+              "ToolTip": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "Webshop.Api\\DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:01:41.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddToCartDtoValidator.cs",
+              "DocumentMoniker": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\AddToCartDtoValidator.cs",
+              "RelativeDocumentMoniker": "Webshop.Api\\DTOs\\AddToCartDtoValidator.cs",
+              "ToolTip": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\AddToCartDtoValidator.cs",
+              "RelativeToolTip": "Webshop.Api\\DTOs\\AddToCartDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:01:37.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddToCartDto.cs",
+              "DocumentMoniker": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\AddToCartDto.cs",
+              "RelativeDocumentMoniker": "Webshop.Api\\DTOs\\AddToCartDto.cs",
+              "ToolTip": "D:\\webshop\\Webshop.Api\\Webshop.Api\\DTOs\\AddToCartDto.cs",
+              "RelativeToolTip": "Webshop.Api\\DTOs\\AddToCartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:01:19.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\webshop\\Webshop.Api\\Webshop.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Webshop.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\webshop\\Webshop.Api\\Webshop.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Webshop.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:01:10.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Webshop.Api",
+              "DocumentMoniker": "D:\\webshop\\Webshop.Api\\Webshop.Api\\Webshop.Api.csproj",
+              "RelativeDocumentMoniker": "Webshop.Api\\Webshop.Api.csproj",
+              "ToolTip": "D:\\webshop\\Webshop.Api\\Webshop.Api\\Webshop.Api.csproj",
+              "RelativeToolTip": "Webshop.Api\\Webshop.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-04T11:59:55.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
