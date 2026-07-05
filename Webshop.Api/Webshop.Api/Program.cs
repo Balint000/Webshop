@@ -71,6 +71,16 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ICartService, CartService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddMemoryCache();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("WebshopFrontend", policy =>
+    {
+        policy.WithOrigins("http://localhost:3000") // a frontended URL-je
+              .AllowAnyHeader()
+              .AllowAnyMethod()
+              .AllowCredentials();
+    });
+});
 
 builder.Services.AddStackExchangeRedisCache(options =>
 {
@@ -114,6 +124,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors("WebshopFrontend");
 
 app.UseAuthentication();
 app.UseAuthorization();
