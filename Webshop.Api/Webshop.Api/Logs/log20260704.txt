@@ -1,0 +1,49 @@
+2026-07-04 02:17:08.824 +02:00 [INF] User profile is available. Using 'C:\Users\mogyo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-04 02:17:08.977 +02:00 [INF] Now listening on: https://localhost:7002
+2026-07-04 02:17:08.978 +02:00 [INF] Now listening on: http://localhost:5247
+2026-07-04 02:17:09.012 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-04 02:17:09.013 +02:00 [INF] Hosting environment: Development
+2026-07-04 02:17:09.013 +02:00 [INF] Content root path: D:\webshop\Webshop.Api\Webshop.Api
+2026-07-04 02:17:09.563 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7002/ - null null
+2026-07-04 02:17:09.685 +02:00 [INF] HTTP GET / responded 404 in 43.5806 ms
+2026-07-04 02:17:09.692 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7002/ - 404 null null 134.7561ms
+2026-07-04 02:17:09.697 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7002/, Response status code: 404
+2026-07-04 02:17:16.194 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7002/swagger/index.html - null null
+2026-07-04 02:17:16.256 +02:00 [INF] HTTP GET /swagger/index.html responded 304 in 55.3141 ms
+2026-07-04 02:17:16.261 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7002/swagger/index.html - 304 null null 66.3638ms
+2026-07-04 02:17:16.266 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7002/swagger/swagger-ui.css - null null
+2026-07-04 02:17:16.266 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7002/swagger/swagger-ui-standalone-preset.js - null null
+2026-07-04 02:17:16.267 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7002/swagger/index.js - null null
+2026-07-04 02:17:16.266 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7002/swagger/index.css - null null
+2026-07-04 02:17:16.266 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7002/swagger/swagger-ui-bundle.js - null null
+2026-07-04 02:17:16.268 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - null null
+2026-07-04 02:17:16.271 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7002/_vs/browserLink - null null
+2026-07-04 02:17:16.278 +02:00 [INF] HTTP GET /swagger/index.js responded 304 in 0.3117 ms
+2026-07-04 02:17:16.284 +02:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 304 in 8.8021 ms
+2026-07-04 02:17:16.322 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7002/swagger/index.js - 304 null null 55.5344ms
+2026-07-04 02:17:16.326 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7002/swagger/swagger-ui-standalone-preset.js - 304 null null 59.5994ms
+2026-07-04 02:17:16.284 +02:00 [INF] HTTP GET /swagger/index.css responded 304 in 2.4568 ms
+2026-07-04 02:17:16.284 +02:00 [INF] HTTP GET /swagger/swagger-ui.css responded 304 in 11.7207 ms
+2026-07-04 02:17:16.288 +02:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 304 in 3.0853 ms
+2026-07-04 02:17:16.325 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - 200 14927 application/javascript; charset=utf-8 56.7328ms
+2026-07-04 02:17:16.343 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7002/swagger/index.css - 304 null null 76.9692ms
+2026-07-04 02:17:16.346 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7002/swagger/swagger-ui.css - 304 null null 80.4207ms
+2026-07-04 02:17:16.350 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7002/swagger/swagger-ui-bundle.js - 304 null null 83.5538ms
+2026-07-04 02:17:16.354 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7002/_vs/browserLink - 200 null text/javascript; charset=UTF-8 83.1888ms
+2026-07-04 02:17:16.397 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7002/swagger/v1/swagger.json - null null
+2026-07-04 02:17:16.414 +02:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 13.4685 ms
+2026-07-04 02:17:16.419 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7002/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 21.439ms
+2026-07-04 02:17:47.549 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7002/api/Auth/login - application/json 50
+2026-07-04 02:17:47.586 +02:00 [INF] Executing endpoint 'Webshop.Api.Controllers.AuthController.Login (Webshop.Api)'
+2026-07-04 02:17:47.626 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Webshop.Api.DTOs.LoginDto) on controller Webshop.Api.Controllers.AuthController (Webshop.Api).
+2026-07-04 02:17:48.247 +02:00 [WRN] No store type was specified for the decimal property 'TotalAmount' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-07-04 02:17:48.249 +02:00 [WRN] No store type was specified for the decimal property 'UnitPrice' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-07-04 02:17:48.871 +02:00 [INF] Executed DbCommand (62ms) [Parameters=[@dto_Email='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[CreatedAt], [u].[Email], [u].[FullName], [u].[PasswordHash], [u].[Role]
+FROM [Users] AS [u]
+WHERE [u].[Email] = @dto_Email
+2026-07-04 02:17:49.173 +02:00 [INF] Executing OkObjectResult, writing value of type 'Webshop.Api.DTOs.AuthResponseDto'.
+2026-07-04 02:17:49.181 +02:00 [INF] Executed action Webshop.Api.Controllers.AuthController.Login (Webshop.Api) in 1548.0678ms
+2026-07-04 02:17:49.184 +02:00 [INF] Executed endpoint 'Webshop.Api.Controllers.AuthController.Login (Webshop.Api)'
+2026-07-04 02:17:49.186 +02:00 [INF] HTTP POST /api/Auth/login responded 200 in 1630.3372 ms
+2026-07-04 02:17:49.198 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7002/api/Auth/login - 200 null application/json; charset=utf-8 1648.9433ms
