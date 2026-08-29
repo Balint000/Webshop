@@ -1,182 +1,363 @@
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\appsettings.Development.json
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\appsettings.json
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Webshop.Api.staticwebassets.endpoints.json
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Webshop.Api.exe
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Webshop.Api.deps.json
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Webshop.Api.runtimeconfig.json
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Webshop.Api.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Webshop.Api.pdb
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop.Api.csproj.AssemblyReference.cache
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop.Api.GeneratedMSBuildEditorConfig.editorconfig
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop.Api.AssemblyInfoInputs.cache
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop.Api.AssemblyInfo.cs
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop.Api.csproj.CoreCompileInputs.cache
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop.Api.MvcApplicationPartsAssemblyInfo.cs
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop.Api.MvcApplicationPartsAssemblyInfo.cache
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop.Api.sourcelink.json
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\scopedcss\bundle\Webshop.Api.styles.css
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\staticwebassets.build.json
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\staticwebassets.development.json
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\swae.build.ex.cache
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop..52853ABC.Up2Date
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop.Api.dll
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\refint\Webshop.Api.dll
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop.Api.pdb
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\Webshop.Api.genruntimeconfig.cache
-D:\webshop\Webshop.Api\Webshop.Api\obj\Debug\net10.0\ref\Webshop.Api.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Azure.Core.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Azure.Identity.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Humanizer.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\System.ClientModel.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\System.CodeDom.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\System.Composition.Convention.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\System.Memory.Data.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\FluentValidation.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\FluentValidation.AspNetCore.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\AutoMapper.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\BCrypt-Net-Next.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Serilog.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Serilog.AspNetCore.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Serilog.Extensions.Hosting.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Serilog.Extensions.Logging.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Serilog.Formatting.Compact.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Serilog.Settings.Configuration.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Serilog.Sinks.Console.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Serilog.Sinks.Debug.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Serilog.Sinks.File.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\Pipelines.Sockets.Unofficial.dll
-D:\webshop\Webshop.Api\Webshop.Api\bin\Debug\net10.0\StackExchange.Redis.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/appsettings.Development.json
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/appsettings.json
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api.staticwebassets.endpoints.json
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api.exe
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api.deps.json
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api.runtimeconfig.json
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api.pdb
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.OpenApi.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.csproj.AssemblyReference.cache
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/rpswa.dswa.cache.json
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.AssemblyInfoInputs.cache
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.AssemblyInfo.cs
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.csproj.CoreCompileInputs.cache
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.MvcApplicationPartsAssemblyInfo.cs
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.MvcApplicationPartsAssemblyInfo.cache
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.sourcelink.json
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/rjimswa.dswa.cache.json
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/scopedcss/bundle/Webshop.Api.styles.css
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/staticwebassets.build.json
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/staticwebassets.build.json.cache
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/staticwebassets.development.json
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/swae.build.ex.cache
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/staticwebassets.upToDateCheck.txt
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop..52853ABC.Up2Date
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.dll
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/refint/Webshop.Api.dll
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.pdb
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.genruntimeconfig.cache
+D:/webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/ref/Webshop.Api.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Azure.Core.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Azure.Identity.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Humanizer.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Bcl.Cryptography.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Data.SqlClient.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Identity.Client.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.SqlServer.Server.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Mono.TextTemplating.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Newtonsoft.Json.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.ClientModel.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.CodeDom.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Composition.Convention.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Composition.Hosting.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Composition.Runtime.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Composition.TypedParts.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Memory.Data.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/runtimes/unix/lib/net9.0/Microsoft.Data.SqlClient.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/runtimes/win/lib/net9.0/Microsoft.Data.SqlClient.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/FluentValidation.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/FluentValidation.AspNetCore.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/FluentValidation.DependencyInjectionExtensions.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/AutoMapper.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/BCrypt-Net-Next.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.AspNetCore.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Extensions.Hosting.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Extensions.Logging.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Formatting.Compact.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Settings.Configuration.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Sinks.Console.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Sinks.Debug.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Sinks.File.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Pipelines.Sockets.Unofficial.dll
+D:/webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/StackExchange.Redis.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/appsettings.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/appsettings.Development.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api.staticwebassets.endpoints.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api.deps.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api.runtimeconfig.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Webshop.Api.pdb
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/AutoMapper.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Azure.Core.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Azure.Identity.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/BCrypt-Net-Next.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/FluentValidation.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/FluentValidation.AspNetCore.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/FluentValidation.DependencyInjectionExtensions.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Humanizer.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Bcl.Cryptography.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Data.SqlClient.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Identity.Client.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.SqlServer.Server.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Mono.TextTemplating.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Newtonsoft.Json.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Pipelines.Sockets.Unofficial.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.AspNetCore.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Extensions.Hosting.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Extensions.Logging.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Formatting.Compact.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Settings.Configuration.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Sinks.Console.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Sinks.Debug.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Serilog.Sinks.File.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/StackExchange.Redis.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.ClientModel.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.CodeDom.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Composition.Convention.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Composition.Hosting.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Composition.Runtime.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Memory.Data.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/cs/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/de/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/es/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/fr/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/it/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ja/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ko/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pl/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/ru/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/tr/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/runtimes/unix/lib/net9.0/Microsoft.Data.SqlClient.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/runtimes/win/lib/net9.0/Microsoft.Data.SqlClient.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.csproj.AssemblyReference.cache
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/rpswa.dswa.cache.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.AssemblyInfoInputs.cache
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.AssemblyInfo.cs
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.csproj.CoreCompileInputs.cache
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.MvcApplicationPartsAssemblyInfo.cs
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.MvcApplicationPartsAssemblyInfo.cache
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.sourcelink.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/scopedcss/bundle/Webshop.Api.styles.css
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/staticwebassets.build.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/staticwebassets.build.json.cache
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/staticwebassets.development.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/swae.build.ex.cache
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop..52853ABC.Up2Date
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/refint/Webshop.Api.dll
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.pdb
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/Webshop.Api.genruntimeconfig.cache
+/run/media/balint/Files/[11] Programming OFFLINE/Webshop/Webshop.Api/Webshop.Api/obj/Debug/net10.0/ref/Webshop.Api.dll
